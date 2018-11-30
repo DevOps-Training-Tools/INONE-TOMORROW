@@ -1,0 +1,6 @@
+projectKey=com.mt.multimodule:MultipleModulesMaven
+serverUrl=http://54.90.189.6:9000
+serverVersion=7.4.0.18908
+dashboardUrl=http://54.90.189.6:9000/dashboard?id=com.mt.multimodule%3AMultipleModulesMaven
+ceTaskId=AWdltZoKVH_hE-H1uBmu
+ceTaskUrl=http://54.90.189.6:9000/api/ce/task?id=AWdltZoKVH_hE-H1uBmu
